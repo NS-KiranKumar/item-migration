@@ -1,0 +1,16 @@
+.git
+.gitignore
+
+.env
+
+tmp/
+vendor/
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+Dockerfile
+docker-compose.yml
+README.md
